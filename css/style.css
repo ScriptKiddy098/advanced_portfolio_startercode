@@ -1,8 +1,10 @@
 /* Nav Bar CSS */
-
+.row my-header { 
+     height: 400px;
+     background-color: lightblue;
+}
 
 /* Header CSS */
-
 
 
 /* Section CSS */
